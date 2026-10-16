@@ -1,5 +1,5 @@
 export class Modelo {
-    static ["lista"]
+    static ["listaPrivada"]
     #nome
     #credencial
     #turno
